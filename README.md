@@ -1,4 +1,4 @@
-# Flip Tracker - Real Estate Portfolio MVP
+# Flip Tracker - Real Estate Portfolio MVP 
 
 Desktop-first property tracker for solo house flippers. Track deal analysis, project progress, expenses vs budget, photo documentation, and generate lender-ready PDF reports.
 
